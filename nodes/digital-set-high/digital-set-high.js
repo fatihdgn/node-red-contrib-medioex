@@ -1,4 +1,4 @@
-var MedIOEx = require("MedIOEx-js");
+var MedIOEx = require("medioex-js");
 
 module.exports = function(RED) {
   function digitalSetHigh(config) {
